@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/whole_map"
+        android:icon="@drawable/ic_flag"
+        android:title="@string/string_map" />
+    <item android:id="@+id/location"
+        android:icon="@drawable/ic_marker"
+        android:title="@string/string_location" />
+</menu>
